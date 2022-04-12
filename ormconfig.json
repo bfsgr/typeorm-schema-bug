@@ -6,7 +6,7 @@
    "password": "postgres",
    "database": "schemabug",
    "synchronize": false,
-   "migrationRun": true,
+   "migrationsRun": true,
    "logging": true,
    "entities": [
       "src/entity/**/*.ts"
